@@ -40,17 +40,20 @@ B- Compilazione
                      1 =  per Maestro
 
          u4 - Postazione
+         
                   A scelta vostra codi posti visibile.
+                  
          u5 - Acquisto
                    Numero carta : 01232342667
                          Data di scadenza: 12/19
                          CVV : 001
 
      A : Amministratore
+     
            a1 - Autenticazione
                       
-                          CodeAdmin : AD123
-                          Password : qwert123546
+               CodeAdmin : AD123
+               Password : qwert123546
 
    
 
