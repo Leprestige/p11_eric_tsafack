@@ -95,6 +95,7 @@ public class TcketTest {
 //------------------------Acquisizione del biglietto.-------------------------------
 					//sconto da applicare in caso necessario.
 					double scon = rem.privileggioU();
+					 
 					System.out.println("Acquista");
 					//System.out.println(new PagamentoEseguito(cart.getPrix(), movie[indice].getPrezzo()).sottra(scon));
 					
@@ -119,7 +120,7 @@ public class TcketTest {
 							//String nFilm = snowdem.getNameMovie();
 						        printout.print("Titolo del film : ");
 						        printout.println(miofilm);
-							double som = snowdem.getPrezzo();
+							double som = snowdem.getPrezzo()-(snowdem.getPrezzo()*scon);
 						       printout.print("Prezzo: ");
 						       printout.println(som);
 				            String pos = p.matrici[in1][in2];
