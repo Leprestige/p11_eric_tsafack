@@ -1,5 +1,9 @@
 A- Testing
+
+
       L’user case che avevo presentato era L’autenticazione dell’utente e dell’amministratore. Quindi ne ho nel caso funzionale : Per avere un test completo.
+      
+      
            1- l’autenticazione dell’utente 
 
                             username : Marco Giovani
@@ -18,7 +22,7 @@ B- Compilazione
                          Si scegli la categorie d’uso.
 
                           U : utente
-                           A : Amministratore
+                          A : Amministratore
 
             u: scelto (utente)
          u1- Autenticazione 
