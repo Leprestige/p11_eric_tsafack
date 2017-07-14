@@ -93,6 +93,7 @@ public class Administratore {
     /**
      *  stampa la lista
      */
+    /**
     public void StampaList(){
 		for ( int i=0;i<movie.size();i++){
 			System.out.println(movie.get(i).getNameMovie() +","+
@@ -102,6 +103,7 @@ public class Administratore {
 		                       movie.get(i).getPrezzo());
 		}
 	}
+     */
     /**
      * 
      * @return la dimensione della lista.
