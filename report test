@@ -1,0 +1,7 @@
+TEST STRUTTURALI e FUNZIONALE
+
+- Nella classe "Utente" e "Administratore " manca il testing sugli 'else'non ho potuto impostare dei requisiti che soddisfassero. 
+e qualche branch va testato partialmente.
+_ la complessità di impostazione rimane una degli elementi importanti per un testing complete e globale. branch non sono molto 
+sollecito.
+
