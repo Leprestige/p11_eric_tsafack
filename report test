@@ -1,7 +1,11 @@
-TEST STRUTTURALI e FUNZIONALE
+TEST FUNZIONALE
 
-- Nella classe "Utente" e "Administratore " manca il testing sugli 'else'non ho potuto impostare dei requisiti che soddisfassero. 
-e qualche branch va testato partialmente.
-_ la complessità di impostazione rimane una degli elementi importanti per un testing complete e globale. branch non sono molto 
-sollecito.
+- Nello "use-case" con id : "UC1" non l'ho potuto rispettare totalmente in quanto non ho trovato modo per 
+riuscire a sollicitare alcuni branches per uno stesso requisito. Il mio programma ad un requisito 
+e qualche branches va testato partialmente.
+
+TEST STRUTTURALE
+-- Assumo inoltre che la classe "Pagamentoeseguito" e "Postazione"  hanno piu o meno senso che venga testata in quanto la loro  
+Coverage non risultano al livello del testing, pero vediamo che il testing viene comunque fatto su di essa. gli altri hanno coverage
+uguale a 50%.
 
